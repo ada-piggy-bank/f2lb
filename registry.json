@@ -137,6 +137,11 @@
 				"pool_id": "f510658bb80e3657f5b20b3f796d219552b57622e0208dd287ba620f",
 				"member_since": "2021-03-08",
 				"name": "CSK"
+			},
+			"22": {
+				"pool_id": "383ee9f587c77c5683eea207359749784d9af5cd2306d099b9397f3f",
+				"member_since": "2021-03-12",
+				"name": "EDGE1"
 			}
 		}
 	}
