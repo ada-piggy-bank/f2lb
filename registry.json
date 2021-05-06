@@ -152,6 +152,11 @@
 				"pool_id": "a47f708038dc2bdf47795e24dac4b73904cbad4424bfce75856260cf",
 				"member_since": "2021-03-05",
 				"name": "AGG1"
+			},
+                        "26": {
+				"pool_id": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
+				"member_since": "2021-04-13",
+				"name": "KAWAN"
 			}
 		}
 	}
